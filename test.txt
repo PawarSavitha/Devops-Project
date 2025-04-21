@@ -1,3 +1,1 @@
-Hi This is my new devops project!!!
-
-Lets test git merge!!
+Hi im in main branch!!!
