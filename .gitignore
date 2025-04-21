@@ -1,0 +1,5 @@
+#!bin/bash
+echo "venv/" >> .gitignore
+echo "__pycache__/" >> .gitignore
+venv/
+__pycache__/
