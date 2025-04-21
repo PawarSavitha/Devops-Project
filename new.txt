@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Now lets write something in FEATURE branch.
 Hi im testing merge conflicts!!!!!
 
+=======
+Hi im testing merge conflicts!!
+>>>>>>> 1ded200 (edited new.txt)
