@@ -1,1 +1,3 @@
 Hi im testing merge conflicts!!
+Now lets write something in FEATURE branch.
+
