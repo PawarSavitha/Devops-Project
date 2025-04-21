@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 
 How lets write something in FEATURE branch.
 Hi im testing merge conflicts!!!!!
 Hi im testing merge conflicts!!
-=======
+
 Hi im testing merge conflicts!!
 Now lets write something in FEATURE branch.
->>>>>>> 0a042053bea14c1a8c720c1355a70f7680381595
 
