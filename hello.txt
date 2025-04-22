@@ -3,3 +3,5 @@ Edit from branch-merge
 
 Edit from branch-rebase
 hello github
+
+git stash
